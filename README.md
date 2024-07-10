@@ -1,5 +1,7 @@
 # FlappyBird-Unity
 
+[**PLAY GAME**](https://shrunbr.github.io/flappybird-unity/)</span>
+
 This is my recreation of Flappy Bird [originally created by Dong Nguyen](https://en.wikipedia.org/wiki/Flappy_Bird).
 
 This is the second game I "made" in Unity as part of [The 20 Games Challenge](https://20_games_challenge.gitlab.io/challenge/).
