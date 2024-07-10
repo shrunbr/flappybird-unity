@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Flappy Bird-1.0";
 const contentToCache = [
     "Build/output_webgl.loader.js",
-    "Build/output_webgl.framework.js.br",
-    "Build/output_webgl.data.br",
-    "Build/output_webgl.wasm.br",
+    "Build/output_webgl.framework.js",
+    "Build/output_webgl.data",
+    "Build/output_webgl.wasm",
     "TemplateData/style.css"
 
 ];
